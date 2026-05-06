@@ -209,12 +209,3 @@ url-shortener/
 go test ./...
 ```
 
-### Линтинг
-
-```bash
-go vet ./...
-```
-
-## Лицензия
-
-MIT License
